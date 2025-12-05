@@ -1,2 +1,2 @@
-let a=6;
+let a=8;
 console.log(a);
